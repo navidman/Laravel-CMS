@@ -22,5 +22,6 @@ final class ModelType extends BaseEnum
 		'Restaurant' => 'Restaurant',
 		'Shop' => 'Shop',
 		'Tour' => 'Tour',
+		'Announce' => 'Announce',
 	];
 }

@@ -118,6 +118,11 @@
 		'icon' => 'flaticon-interface-9',
 	],
 	[
+		'order' => 13,
+		'title' => 'announce',
+		'icon' => 'flaticon-interface-9',
+	],
+	[
 		'order' => 15,
 		'title' => 'notification',
 		'icon' => 'flaticon-notes',

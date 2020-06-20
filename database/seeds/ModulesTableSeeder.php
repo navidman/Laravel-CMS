@@ -51,6 +51,11 @@ class ModulesTableSeeder extends Seeder
                 'title' => 'Contact',
                 'url' => 'contact',
             ],
+            [
+                'type' => 'menu',
+                'title' => 'Announce',
+                'url' => 'announce',
+            ],
             // Header
             [
                 'type' => 'header',

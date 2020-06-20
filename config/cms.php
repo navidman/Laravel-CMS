@@ -10,6 +10,7 @@ $cms = [
         'activity',
         'address',
         'advertise',
+        'announce',
         'basket',
         'block',
         'blog',
@@ -53,6 +54,7 @@ $cms = [
 	'factory' => [
         'address',
         'advertise',
+        'announce',
         'answer',
         'block',
         'blog',
@@ -91,6 +93,7 @@ $cms = [
     'seeder' => [
         'address',
         'advertise',
+        'announce',
         'answer',
         'blog',
         'car',
@@ -122,6 +125,7 @@ $cms = [
     'policies' => [
         'activity',
         'advertise',
+        'announce',
         'answer',
         'address',
         'block',
@@ -166,6 +170,7 @@ $cms = [
     'admin_routes' => [
         'activity',
         // 'advertise',
+        'announce',
         'address',
         'answer',
         'block',
@@ -209,6 +214,7 @@ $cms = [
     ],
     'api_routes' => [
         'advertise',
+        'announce',
         'answer',
         'blog',
         'car',
@@ -233,6 +239,7 @@ $cms = [
     ],
     'front_routes' => [
         'advertise',
+        'announce',
         'blog',
         'car',
         'cinema',
@@ -257,6 +264,7 @@ $cms = [
     'admin_tests' => [
         'address',
         'advertise',
+        'announce',
         'answer',
         'block',
         'blog',
@@ -294,6 +302,7 @@ $cms = [
     ],
     'front_tests' => [
         'advertise',
+        'announce',
         'blog',
         'car',
         'cinema',
